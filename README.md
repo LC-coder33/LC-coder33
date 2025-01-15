@@ -76,10 +76,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=younjung-park&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younjung-park&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LC-coder33&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LC-coder33&layout=compact&theme=radical" />
 </div>
-
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer"/>
 </p>
