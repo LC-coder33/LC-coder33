@@ -27,6 +27,7 @@
 - View 생성 및 활용을 통한 데이터 가공
 - 데이터베이스 성능 최적화 학습
 - 📁 학습내용: [Database Repository](https://github.com/LC-coder33/OracleTutorial)
+- 🚀 프로젝트: [Database PROJECT MOVIE Reservation]((https://github.com/LC-coder33/Mini_Projects)
 
 ### 🎯 프론트엔드
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -84,6 +85,10 @@
 - Branch 전략을 활용한 팀 프로젝트 수행
 - Code Review 프로세스 경험
 - GitHub를 활용한 프로젝트 문서화
+
+### 미니 프로젝트
+(https://github.com/LC-coder33/Mini_Projects)
+
 
 ## 📈 GitHub Stats
 
