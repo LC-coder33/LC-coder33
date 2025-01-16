@@ -24,7 +24,7 @@
 - 서브쿼리와 조인을 활용한 복잡한 데이터 조작
 - View 생성 및 활용을 통한 데이터 가공
 - 데이터베이스 성능 최적화 학습
-- 📁 학습내용: [Database Repository](https://github.com/younjung-park/Database)
+- 📁 학습내용: [Database Repository](https://github.com/LC-coder33/OracleTutorial)
 
 ### 🎯 프론트엔드
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,8 +37,8 @@
 - Bootstrap을 활용한 모던 UI/UX 디자인
 - 개인 포트폴리오 웹사이트 제작
 - 📁 학습내용: 
-  - [HTML_study Repository](https://github.com/younjung-park/HTML_study)
-  - [Frontend-2407 Repository](https://github.com/younjung-park/Frontend-2407)
+  - [FrontEnd Repository](https://github.com/LC-coder33/Frontend-2407)
+  - [HTML Repository](https://github.com/LC-coder33/Html)
 
 ### ☕ JAVA
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -48,8 +48,8 @@
 - 객체 지향 프로그래밍의 핵심 개념 학습 (캡슐화, 상속, 다형성)
 - 데이터베이스 연동을 통한 CRUD 기능 구현
 - 디자인 패턴을 적용한 프로그래밍 실습
-- 📁 학습내용: [JavaTutorial Repository](https://github.com/younjung-park/JavaTutorial)
-- 🚀 프로젝트: [JAVA_PROJECT_final Repository](https://github.com/younjung-park/JAVA_PROJECT_final)
+- 📁 학습내용: [JavaTutorial Repository](https://github.com/LC-coder33/JavaTutorial)
+- 🚀 프로젝트: [JAVA_PROJECT Human Book Repository](https://github.com/LC-coder33/HumanBook)
 
 ### 🌐 풀스택
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -59,9 +59,18 @@
 - MVC 아키텍처 패턴 이해 및 적용
 - RESTful API 설계 및 구현
 - Spring Security를 활용한 인증/인가 구현
-- JPA/Hibernate를 활용한 데이터 처리
-- 📁 학습내용: [SpringStudy Repository](https://github.com/younjung-park/SpringStudy)
-- 🚀 프로젝트: [Petit_cure Repository](https://github.com/younjung-park/Petit_cure)
+- myBatis를 활용한 데이터 처리
+- 📁 학습내용: [SpringStudy Repository](https://github.com/LC-coder33/SpringSTS)
+- 🚀 프로젝트: [Full Stack PROJECT Human ERP Repository](https://github.com/WonjaeLee-L/ERP_TeamProject_Springboot)
+
+### Python
+- Python 기반의 데이터 분석 처리
+- 머신 러닝 모델 개발 및 운용
+- 딥 러닝 프레임워크 활용
+- 자연어(NLP)처리 기초
+- 📁 학습내용: [AI Repository](https://github.com/LC-coder33/PythonTutorial)
+- 🚀 프로젝트: [Machine Learning PROJECT AI Crop Recommendation](https://github.com/LC-coder33/Ai_crop_recommendation_project)
+- 🚀 프로젝트: [Deep Learning PROJECT AI Brain Tumor MRI Classification](https://github.com/LC-coder33/brain_tumor_mri_project)
 
 ### 🔧 Git & 형상관리
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
