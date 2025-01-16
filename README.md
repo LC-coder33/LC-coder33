@@ -73,8 +73,8 @@
 - 딥 러닝 프레임워크 활용
 - 자연어(NLP)처리 기초
 - 📁 학습내용: [AI Repository](https://github.com/LC-coder33/PythonTutorial)
-- 🚀 프로젝트: [Machine Learning PROJECT AI Crop Recommendation](https://github.com/LC-coder33/Ai_crop_recommendation_project)
-- 🚀 프로젝트: [Deep Learning PROJECT AI Brain Tumor MRI Classification](https://github.com/LC-coder33/brain_tumor_mri_project)
+- 🚀 머신 러닝 프로젝트: [Machine Learning PROJECT AI Crop Recommendation](https://github.com/LC-coder33/Ai_crop_recommendation_project)
+- 🚀 딥 러닝 프로젝트: [Deep Learning PROJECT AI Brain Tumor MRI Classification](https://github.com/LC-coder33/brain_tumor_mri_project)
 
 ### 🔧 Git & 형상관리
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
