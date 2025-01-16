@@ -56,8 +56,9 @@
 ### 🌐 풀스택
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-- Spring Boot 기반의 웹 애플리케이션 개발
+- Intellij IDE를 활용하여 Spring Boot 기반의 웹 애플리케이션 개발
 - MVC 아키텍처 패턴 이해 및 적용
 - RESTful API 설계 및 구현
 - Spring Security를 활용한 인증/인가 구현
