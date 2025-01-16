@@ -20,7 +20,7 @@
 
 ### 💾 데이터베이스
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
 
 - Oracle, MariaDB DBMS를 활용한 데이터베이스 설계 및 관리
 - 서브쿼리와 조인을 활용한 복잡한 데이터 조작
